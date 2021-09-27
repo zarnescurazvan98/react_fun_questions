@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_fun_questions/static/css/main.789496d0.chunk.css",
+    "main.js": "/react_fun_questions/static/js/main.1c6ff7ba.chunk.js",
+    "main.js.map": "/react_fun_questions/static/js/main.1c6ff7ba.chunk.js.map",
+    "runtime-main.js": "/react_fun_questions/static/js/runtime-main.46c3831e.js",
+    "runtime-main.js.map": "/react_fun_questions/static/js/runtime-main.46c3831e.js.map",
+    "static/js/2.40b1d22a.chunk.js": "/react_fun_questions/static/js/2.40b1d22a.chunk.js",
+    "static/js/2.40b1d22a.chunk.js.map": "/react_fun_questions/static/js/2.40b1d22a.chunk.js.map",
+    "index.html": "/react_fun_questions/index.html",
+    "precache-manifest.e38aff5f6e247f90ba907a886e816760.js": "/react_fun_questions/precache-manifest.e38aff5f6e247f90ba907a886e816760.js",
+    "service-worker.js": "/react_fun_questions/service-worker.js",
+    "static/css/main.789496d0.chunk.css.map": "/react_fun_questions/static/css/main.789496d0.chunk.css.map",
+    "static/js/2.40b1d22a.chunk.js.LICENSE.txt": "/react_fun_questions/static/js/2.40b1d22a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46c3831e.js",
+    "static/js/2.40b1d22a.chunk.js",
+    "static/css/main.789496d0.chunk.css",
+    "static/js/main.1c6ff7ba.chunk.js"
+  ]
+}
